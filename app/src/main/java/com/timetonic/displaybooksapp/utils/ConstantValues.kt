@@ -1,4 +1,4 @@
-package com.timetonic.displaybooks.utils
+package com.timetonic.displaybooksapp.utils
 
 class ConstantValues {
     companion object{

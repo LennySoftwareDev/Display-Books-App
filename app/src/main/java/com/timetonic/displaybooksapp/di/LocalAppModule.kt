@@ -5,7 +5,7 @@ import androidx.datastore.core.DataStore
 import androidx.datastore.preferences.core.Preferences
 import com.timetonic.displaybooksapp.data.local.DataStoreManagement
 import com.timetonic.displaybooksapp.data.local.DataStoreManagementImpl
-import com.timetonic.displaybooks.utils.datastore
+import com.timetonic.displaybooksapp.utils.datastore
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

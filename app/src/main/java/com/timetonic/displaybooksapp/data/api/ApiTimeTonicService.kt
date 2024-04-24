@@ -1,7 +1,7 @@
 package com.timetonic.displaybooksapp.data.api
 
 
-import com.timetonic.displaybooks.utils.ConstantValues
+import com.timetonic.displaybooksapp.utils.ConstantValues
 import com.timetonic.displaybooksapp.data.api.modelresponse.CreateApiKeyResponseDto
 import com.timetonic.displaybooksapp.data.api.modelresponse.CreateOAuthKeyResponseDto
 import com.timetonic.displaybooksapp.data.api.modelresponse.CreateSessKeyResponseDto

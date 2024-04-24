@@ -1,7 +1,7 @@
 package com.timetonic.displaybooksapp.di
 
-import com.timetonic.displaybooks.utils.ConstantValues
 import com.timetonic.displaybooksapp.data.api.ApiTimeTonicService
+import com.timetonic.displaybooksapp.utils.ConstantValues
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
